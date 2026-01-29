@@ -1,0 +1,1522 @@
+{
+  "metadata": {
+    "version": "2.0_sintetico_completo",
+    "type": "basic_answers",
+    "total_species": 65,
+    "last_updated": "2025-10-17T03:30:17Z"
+  },
+  "species_data": {
+    "Coffea_arabica": {
+      "common_names": [
+        "Café",
+        "Café Colombia",
+        "Cafeto"
+      ],
+      "scientific_name": "Coffea arabica L.",
+      "family": "Rubiaceae",
+      "origin": "Etiopía",
+      "morphology": "Arbusto 2-3m. Hojas opuestas, lanceoladas, verde oscuro lustroso. Flores blancas fragantes. Frutos rojo oscuro (cerezas de café). Semillas 2 por fruto.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Roya (Hemileia vastatrix) - mayor amenaza. Antracnosis (Colletotrichum kahawae). Control: resistencia genética, fungicidas cúpricos.",
+      "medicinal_properties": "Cafeína 1.2-1.5%. Polifenoles 150-500mg/100g. Antioxidante, estimulante del SNC, hepatoprotector. Consumo recomendado: 200-400mg cafeína/día.",
+      "uses": "Bebida, café molido, extractos. Subproductos: pulpa (abono), cascarilla (combustible).",
+      "economic_data": "Producción global: 10 millones ton/año. 2ª bebida más comerciada. Brasil (40% producción). Precio mercado de futuros fluctuante.",
+      "yield": "3-5 kg/arbusto/año",
+      "production_cycle": "Primera cosecha año 4-5. Pico producción 7-20 años. Vida productiva: 25-30 años."
+    },
+    "Senna_spectabilis": {
+      "common_names": [
+        "Candelillo",
+        "Pico de pájaro",
+        "Flor de fuego"
+      ],
+      "scientific_name": "Senna spectabilis (DC.) H.S. Irwin & Barneby",
+      "family": "Fabaceae",
+      "origin": "Perú, Ecuador, Colombia",
+      "morphology": "Árbol/arbusto deciduo 3-8m. Hojas bipinnadas verdes. Flores amarillo-naranja brillante (muy vistosas). Vainas 15-25cm lineares. Semillas 20-30 por vaina.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Pocas plagas. Resistente.",
+      "medicinal_properties": "Antraquinonas, flavonoides. Laxante suave, purgante, antiinflamatorio, antihelmíntico.",
+      "uses": "Ornamental (flores vistosas), medicinal (laxante), fijadora nitrógeno, mejora suelos, forraje.",
+      "economic_data": "Valor local importante como ornamental.",
+      "yield": "Variable según uso",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad."
+    },
+    "Mangifera_indica": {
+      "common_names": [
+        "Mango"
+      ],
+      "scientific_name": "Mangifera indica L.",
+      "family": "Anacardiaceae",
+      "origin": "India, Sudeste Asiático",
+      "morphology": "Árbol grande 10-40m. Hojas alargadas verdes oscuras aromáticas. Flores pequeñas rosa-blancas fragantes. Frutos drupas carnosas dulces aromáticas (7-35cm, 50-400g).",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Mosca del fruto, antracnosis. Control: orgánico preferente.",
+      "medicinal_properties": "Vitamina C, A, fibra. Antioxidantes polifenólicos. Propiedades digestivas, antiinflamatorias.",
+      "uses": "Consumo fresco, jugos, conservas, fruta de exportación.",
+      "economic_data": "Producción mundial importante. Exportación significativa. Precio buen mercado.",
+      "yield": "100-300 kg/árbol/año en producción",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad."
+    },
+    "Musa_paradisiaca": {
+      "common_names": [
+        "Plátano",
+        "Banano"
+      ],
+      "scientific_name": "Musa paradisiaca L.",
+      "family": "Musaceae",
+      "origin": "Sudeste Asiático/Papua",
+      "morphology": "Hierba gigante 3-9m. Pseudotallo verde cilíndrico. Hojas grandes alargadas 2-3m verdes. Frutos en racimos 50-200/planta. Color verde → amarillo madurez.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Sigatoka negra (Mycosphaerella fijiensis). Moko (Ralstonia solanacearum). Control: integrado.",
+      "medicinal_properties": "Potasio 358mg/100g, Vitamina B6 C, fibra 2.6g/100g, carbohidratos 27g/100g.",
+      "uses": "Consumo fresco, cocido, harina, producción industrial.",
+      "economic_data": "Cultivo comercial importante. Seguridad alimentaria regional. Ingreso productor.",
+      "yield": "20-40 ton/ha/año",
+      "production_cycle": "Ciclo 9-12 meses siembra-cosecha. Cosecha continua."
+    },
+    "Psidium_guajava": {
+      "common_names": [
+        "Guayaba",
+        "Guaba"
+      ],
+      "scientific_name": "Psidium guajava L.",
+      "family": "Myrtaceae",
+      "origin": "América Tropical",
+      "morphology": "Árbol/arbusto 3-10m. Tallo cilíndrico ramificado. Hojas lanceoladas rugosas 5-15cm. Flores blancas pequeñas. Frutos redondeados aromáticos crema/rosados con semillas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Mosca del fruto. Resistente, muy productiva.",
+      "medicinal_properties": "Vitamina C: 228mg/100g (4x naranja), fibra 5.4g/100g, Vit A B, potasio. Antioxidantes, antiinflamatorios.",
+      "uses": "Fresco, jugos, néctares, pulpas, mermeladas, dulces, medicina tradicional.",
+      "economic_data": "Producción importante. Exportación jugos. Mercado local fuerte.",
+      "yield": "50-100 ton/ha/año",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad."
+    },
+    "Citrus_reticulata": {
+      "common_names": [
+        "Limón Mandarino",
+        "Mandarina",
+        "Tangerina"
+      ],
+      "scientific_name": "Citrus reticulata Blanco",
+      "family": "Rutaceae",
+      "origin": "Asia Suroriental",
+      "morphology": "Árbol 3-5m. Hojas lanceoladas 7-12cm aromáticas. Flores blancas fragantes. Frutos redondeados cáscara fina naranja brillante.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Ácaros, mosca blanca. Moderadamente resistente.",
+      "medicinal_properties": "Vitamina C 26-31mg/100g, fibra, potasio. Antioxidantes (limoneno, flavonoides). Digestivas.",
+      "uses": "Consumo fresco, jugos, conservas, exportación.",
+      "economic_data": "Mercado importante exportación. Precio competitivo.",
+      "yield": "30-50 ton/ha/año",
+      "production_cycle": "Empieza año 3-4. Pico año 8-15."
+    },
+    "Leucaena_leucocephala": {
+      "common_names": [
+        "Vainillo",
+        "Guachipelín"
+      ],
+      "scientific_name": "Leucaena leucocephala (Lam.) de Wit",
+      "family": "Fabaceae",
+      "origin": "México, América Central",
+      "morphology": "Árbol/arbusto 4-8m. Tallo verde cilíndrico. Hojas bipinnadas verdes. Flores amarillas globosas. Vainas 10-20cm planas pardas. Semillas muchas elípticas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Psílido de la leucaena. Resistente general.",
+      "medicinal_properties": "Forraje: proteína bruta 22-28%, digestibilidad 65-75%, minerales Ca P K, palatabilidad buena.",
+      "uses": "FORRAJE (hojas nutritivas), FIJACIÓN N (leguminosa), ABONO VERDE, LEÑA, MADERA.",
+      "economic_data": "Multipropósito. Valor alto como mejoradora suelos.",
+      "yield": "15-25 ton biomasa seca/ha/año",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad."
+    },
+    "Tephrosia_vogelii": {
+      "common_names": [
+        "Falso Guandull",
+        "Barbasco",
+        "Pera Índigo"
+      ],
+      "scientific_name": "Tephrosia vogelii Hook. f.",
+      "family": "Fabaceae",
+      "origin": "África Oriental (Tanzania, Kenia)",
+      "morphology": "Arbusto erecto/semitrepador 1.5-3m. Tallo verde-pardo-rojizo velludo. Hojas imparipinnadas 11-25 folíolos. Flores rosa morado blanco variado. Vainas 5-7cm oblongas. Semillas 5-8 por vaina.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Pocas plagas. Resistente.",
+      "medicinal_properties": "ACTIVO: Rotenona 0.4-0.9% en raíces/semillas. BIOPESTICIDA efectivo contra insectos, ácaros, trips. MEDICINAL: antihelmíntico, antiparasitario (uso externo), cicatrizante.",
+      "uses": "BIOPESTICIDA (extracto semillas/raíces), MEDICINAL (uso externo), AGROECOLÓGICO (fijadora N), FORRAJE.",
+      "precautions": "Toxicidad moderada. Uso externo o como biopesticida preferente. NO consumir internamente.",
+      "yield": "Variable según uso",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie."
+    },
+    "Pteridium_arachnoideum": {
+      "common_names": [
+        "Helecho Macho",
+        "Helecho Águila"
+      ],
+      "scientific_name": "Pteridium arachnoideum (Kaulf.) Maxon",
+      "family": "Pteridiaceae",
+      "origin": "América Tropical",
+      "morphology": "Helecho terrestre perenne. Frondas 1-2m erectas. Estructura bipinnado-tripinnadas. Color verde oscuro claro. Rizomas subterráneos profundos.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Pocas plagas. Rústica resistente.",
+      "medicinal_properties": "TRADICIONAL: antihelmíntico, antiinflamatorio tópico, cicatrizante.",
+      "uses": "ORNAMENTAL (follaje decorativo), ARTESANAL, MEDICINAL (tradicional), AGROECOLÓGICO (cobertura, control erosión).",
+      "yield": "N/A",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie."
+    },
+    "Commelina_erecta": {
+      "common_names": [
+        "Canutillo",
+        "Congonilla",
+        "Trapo Viejo"
+      ],
+      "scientific_name": "Commelina erecta L.",
+      "family": "Commelinaceae",
+      "origin": "América Central y del Sur",
+      "morphology": "Hierba erguida semisuculent 20-60cm. Tallo verde suculento nudoso cilíndrico. Hojas alternas lanceoladas 5-12cm. Flores azul-violeta efímeras (24h). Frutos cápsula 2-4 semillas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Pocas plagas.",
+      "medicinal_properties": "TRADICIONAL: antiinflamatorio, diurético, antihelmíntico, cicatrizante.",
+      "uses": "ORNAMENTAL (flores azul-violeta vistosas), MEDICINAL (etnobotánico), ECOLÓGICO (cobertura bosque).",
+      "yield": "N/A",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie."
+    },
+    "Hevea_brasiliensis": {
+      "common_names": [
+        "Caucho",
+        "Árbol del Hule",
+        "Caucho Rojo"
+      ],
+      "scientific_name": "Hevea brasiliensis (Willd. ex A. Juss.) Müll. Arg.",
+      "family": "Euphorbiaceae",
+      "origin": "Cuenca Amazónica (Brasil)",
+      "morphology": "Árbol caducifolio 20-40m silvestre, 15-25m cultivo. Fuste recto limpio. Corteza grisácea. LÁTEX abundante blanco lechoso. Hojas trifolioladas verde oscuro. Flores amarillo-verdosas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "latex_production": "Contenido 30-40% en savia floema. Composición: hidrocarburos (poliisopreno ~95%). Tapping: incisión 25-30°, cada 2-3 días. Rendimiento: 2-3 kg/árbol/año. Vida productiva: 25-30 años.",
+      "pests_diseases": "Mancha foliar (Microcyclus ulei). Panel rot (Fomes lignosus). Control: fungicidas.",
+      "uses": "LLANTAS, MANGUERAS, JUGUETES, PRENDAS IMPERMEABLES, ADHESIVOS, PINTURAS.",
+      "economic_data": "Producción global: 13-14 millones ton/año. Productores: Tailandia, Indonesia, Vietnam. Commodity importante. Empleo: millones trabajadores.",
+      "yield": "2-3 kg/árbol/año comercial",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie."
+    },
+    "Clinopodium_chilense": {
+      "common_names": [
+        "Menta de Árbol",
+        "Albahaca"
+      ],
+      "scientific_name": "Clinopodium chilense (Benth.) Govaerts",
+      "family": "Lamiaceae",
+      "origin": "América del Sur (Andes)",
+      "morphology": "Arbusto 1-3m. Tallo cuadrangular velludo verde-rojizo. Hojas opuestas lanceoladas 5-10cm AROMÁTICAS INTENSAS. Flores pequeñas blancas-rosadas espigas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Pocas plagas. Rústica resistente.",
+      "medicinal_properties": "ACTIVOS: mentol, carvacrol, timol. PROPIEDADES: digestivo, antipirético, antiinflamatorio, antiséptico, antiespasmódico, antimicrobiano.",
+      "preparation": "Infusión: 2-3 hojas en 150ml agua caliente. 5-10 min. 2-3 tazas/día.",
+      "uses": "CULINARIO (condimento, bebida), MEDICINAL (digestiva), COSMÉTICO, AGRÍCOLA (repelente plagas).",
+      "safety": "Segura adultos niños. Embarazo: moderada. Sin efectos secundarios conocidos.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Senna_spectabilis_alt": {
+      "common_names": [
+        "Arazá",
+        "Araçá"
+      ],
+      "scientific_name": "Eugenia stipitata McVaugh",
+      "family": "Myrtaceae",
+      "origin": "Amazonía",
+      "morphology": "Árbol 3-5m. Frutos pequeños aromáticos amarillo-naranja.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "Fruto aromático, exportación, mercado internacional",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Brachiaria_decumbens": {
+      "common_names": [
+        "Pasto Brachiaria",
+        "Brachiaria"
+      ],
+      "scientific_name": "Brachiaria decumbens Stapf",
+      "family": "Poaceae",
+      "origin": "África",
+      "morphology": "Pasto perenne rastrero. Tallos decumbentes. Hojas verdes alargadas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "FORRAJE (ganado), PASTOREO, COBERTURA SUELO, FIJACIÓN N moderada",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Inga_espectabilis": {
+      "common_names": [
+        "Guamo",
+        "Guamito"
+      ],
+      "scientific_name": "Inga edulis Mart.",
+      "family": "Fabaceae",
+      "origin": "Amazonía",
+      "morphology": "Árbol 15-25m. Hojas pinnadas. Flores en espigas. Frutos vainas aladas. Semillas envueltas en arilo blanco.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "FRUTO (arilo comestible dulce), FIJADORA N, SOMBRÍO EN AGROFORESTERÍA, FORRAJE",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Leonotis_nepetifolia": {
+      "common_names": [
+        "Molinillo",
+        "Pipa de Indio"
+      ],
+      "scientific_name": "Leonotis nepetifolia (L.) R. Br.",
+      "family": "Lamiaceae",
+      "origin": "África tropical",
+      "morphology": "Arbusto 1-2m. Tallo cuadrangular. Hojas rugosas. Flores NARANJAS vistosas en verticilios.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "medicinal_properties": "TRADICIONAL: antiinflamatorio, expectorante, antitusivo.",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "uses": "Usos de ejemplo: alimento/consumo humano, uso medicinal tradicional, forraje, ornamental o industrial según la especie.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Luma_apiculata": {
+      "common_names": [
+        "Arrayán",
+        "Mirtáceo"
+      ],
+      "scientific_name": "Luma apiculata (DC.) Burret",
+      "family": "Myrtaceae",
+      "origin": "Chile, Argentina",
+      "morphology": "Árbol 5-15m. Corteza rojiza. Flores blancas pequeñas. Frutos negros pequeños.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "medicinal_properties": "TRADICIONAL: antioxidante, astringente, antimicrobiano.",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "uses": "Usos de ejemplo: alimento/consumo humano, uso medicinal tradicional, forraje, ornamental o industrial según la especie.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Ageratum_conyzoides": {
+      "common_names": [
+        "Botón Morado",
+        "Aguerato"
+      ],
+      "scientific_name": "Ageratum conyzoides L.",
+      "family": "Asteraceae",
+      "origin": "América tropical",
+      "morphology": "Hierba 30-60cm. Flores morado-azuladas pequeñas",
+      "uses": "ORNAMENTAL, MEDICINAL TRADICIONAL, REPELENTE PLAGAS",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Emilia_fosbergii": {
+      "common_names": [
+        "Clavelillo Africano"
+      ],
+      "scientific_name": "Emilia fosbergii Milne-Redh.",
+      "family": "Asteraceae",
+      "origin": "África tropical",
+      "morphology": "Hierba 30-50cm. Flores rojas-anaranjadas pequeñas densas",
+      "uses": "ORNAMENTAL, MEDICINA TRADICIONAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Calyptocarpus_vialis": {
+      "common_names": [
+        "Hierba Caballo"
+      ],
+      "scientific_name": "Calyptocarpus vialis Less.",
+      "family": "Asteraceae",
+      "origin": "Neotropikal",
+      "morphology": "Hierba postrada 15-30cm. Flores amarillas pequeñas",
+      "uses": "COBERTURA SUELO, MEDICINA TRADICIONAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Samanea_saman": {
+      "common_names": [
+        "Samán",
+        "Árbol de la Lluvia"
+      ],
+      "scientific_name": "Samanea saman (Jacq.) Merr.",
+      "family": "Fabaceae",
+      "origin": "América Tropical",
+      "morphology": "Árbol grande 20-40m. Copa amplia redondeada. Hojas bipinnadas. Flores rosadas hermosas. Vainas largas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "SOMBRÍO (agroforestería), FORRAJE, MADERA, ORNAMENTAL, FIJADORA N",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Lafoencia_pacari": {
+      "common_names": [
+        "Dedalero",
+        "Dedales"
+      ],
+      "scientific_name": "Lafoensia pacari A. St.-Hil.",
+      "family": "Lythraceae",
+      "origin": "América del Sur",
+      "morphology": "Árbol 15-25m. Flores rosadas grandes vistosas",
+      "uses": "ORNAMENTAL, MADERA, MEDICINAL TRADICIONAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Trichantera_gigantea": {
+      "common_names": [
+        "Nacedero",
+        "Madero Negro"
+      ],
+      "scientific_name": "Trichantera gigantea (Humboldt & Bonpl.) Nees",
+      "family": "Acanthaceae",
+      "origin": "Andes",
+      "morphology": "Arbusto/árbol 3-5m. Hojas grandes. Flores rojas tubulares",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "FORRAJE (muy nutritivo), COBERTURA, LEÑA, MADERA",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Cyperus_luzulae": {
+      "common_names": [
+        "Coquito"
+      ],
+      "scientific_name": "Cyperus luzulae (Rottb.) Mattf. & Kük.",
+      "family": "Cyperaceae",
+      "origin": "Tropical",
+      "morphology": "Hierba cespitosa. Tallos triangulares. Espiguillas",
+      "uses": "COBERTURA SUELO, ORNAMENTAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Musa_paradisiaca_alt": {
+      "common_names": [
+        "Banano",
+        "Plátano Variedad"
+      ],
+      "scientific_name": "Musa acuminata × M. balbisiana",
+      "family": "Musaceae",
+      "morphology": "Similar Musa paradisiaca, variaciones de tamaño fruto",
+      "uses": "CONSUMO FRESCO, COMERCIAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "origin": "Trópicos (Asia/América)",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "5-20 t/ha/año"
+    },
+    "Handroanthus_chrysanthus": {
+      "common_names": [
+        "Guayacán Amarillo"
+      ],
+      "scientific_name": "Handroanthus chrysanthus (Jacq.) S. O. Grose",
+      "family": "Bignoniaceae",
+      "origin": "Neotropikal",
+      "morphology": "Árbol grande 15-30m. Flores amarillo brillante. Madera dura.",
+      "uses": "ORNAMENTAL, MADERA, CONSTRUCCIÓN",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Jacaranda_mimosifolia": {
+      "common_names": [
+        "Gualanday",
+        "Jacarandá"
+      ],
+      "scientific_name": "Jacaranda mimosifolia D. Don",
+      "family": "Bignoniaceae",
+      "origin": "América del Sur",
+      "morphology": "Árbol 10-15m. Flores azul-púrpura vistosas. Hojas plumosas.",
+      "uses": "ORNAMENTAL, MADERA, MEDICINAL TRADICIONAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Arachis_pintoi": {
+      "common_names": [
+        "Maní Forrajero",
+        "Arachis"
+      ],
+      "scientific_name": "Arachis pintoi Krapov. & W. C. Gregory",
+      "family": "Fabaceae",
+      "origin": "Bolivia, Brasil",
+      "morphology": "Leguminosa rastrera 20-30cm. Flores amarillas. Vainas subterráneas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "FORRAJE (proteína alta), COBERTURA SUELO, FIJADORA N",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Brachiaria_decumbens_alt": {
+      "common_names": [
+        "Pasto Brachiaria Variedad"
+      ],
+      "scientific_name": "Brachiaria decumbens Stapf var.",
+      "family": "Poaceae",
+      "morphology": "Pasto perenne rastrero. Tallos decumbentes verdes.",
+      "uses": "FORRAJE, PASTOREO EXTENSIVO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "origin": "Región tropical o subtropical",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Inga_edulis": {
+      "common_names": [
+        "Guamo",
+        "Guamito Amazónico"
+      ],
+      "scientific_name": "Inga edulis Mart.",
+      "family": "Fabaceae",
+      "origin": "Amazonía",
+      "morphology": "Árbol 15-25m. Hojas pinnadas. Flores espigas. Frutos vainas aladas.",
+      "uses": "FRUTO (arilo dulce comestible), FIJADORA N, AGROFORESTERÍA",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Morus_alba": {
+      "common_names": [
+        "Mora Blanca",
+        "Morera"
+      ],
+      "scientific_name": "Morus alba L.",
+      "family": "Moraceae",
+      "origin": "Asia",
+      "morphology": "Árbol 8-15m. Frutos blancos-rojos pequeños dulces.",
+      "uses": "FRUTAL, FORRAJE (hojas para ganado/seda), ORNAMENTAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Manihot_esculenta": {
+      "common_names": [
+        "Yuca",
+        "Mandioca"
+      ],
+      "scientific_name": "Manihot esculenta Crantz",
+      "family": "Euphorbiaceae",
+      "origin": "América del Sur",
+      "morphology": "Arbusto 1.5-2.5m. Raíces tuberosas. Hojas palmeadas.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "TUBÉRCULO comestible, HARINA, ALMIDONERÍA, CONSUMO FRESCO",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Solanum_lycopersicum": {
+      "common_names": [
+        "Tomate"
+      ],
+      "scientific_name": "Solanum lycopersicum L.",
+      "family": "Solanaceae",
+      "origin": "Mesoamérica",
+      "morphology": "Hierba 1-2m. Frutos rojos redondos carnosos.",
+      "uses": "HORTALIZA, CONSUMO FRESCO, INDUSTRIA CONSERVERA",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Capsicum_annuum": {
+      "common_names": [
+        "Ají",
+        "Pimiento"
+      ],
+      "scientific_name": "Capsicum annuum L.",
+      "family": "Solanaceae",
+      "origin": "Mesoamérica",
+      "morphology": "Hierba 0.5-1.5m. Frutos verdes-rojos alargados.",
+      "uses": "CONDIMENTO, HORTALIZA, VITAMINA C",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Vanilla_planifolia": {
+      "common_names": [
+        "Vainilla"
+      ],
+      "scientific_name": "Vanilla planifolia Andrews",
+      "family": "Orchidaceae",
+      "origin": "México",
+      "morphology": "Orquídea trepadora. Vainas largas aromáticas.",
+      "uses": "ESPECIA valiosa, AROMA, EXPORTACIÓN PREMIUM",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Theobroma_cacao": {
+      "common_names": [
+        "Cacao"
+      ],
+      "scientific_name": "Theobroma cacao L.",
+      "family": "Malvaceae",
+      "origin": "Mesoamérica",
+      "morphology": "Árbol 5-10m. Frutos ovalados amarillo-rojo. Semillas (almendras).",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "CHOCOLATE, BEBIDA, EXPORTACIÓN, INDUSTRIA CONFITERÍA",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según manejo: 500-2000 kg/ha/año"
+    },
+    "Coffea_robusta": {
+      "common_names": [
+        "Café Robusta"
+      ],
+      "scientific_name": "Coffea canephora Pierre ex A. Froehner",
+      "family": "Rubiaceae",
+      "origin": "Congo",
+      "morphology": "Arbusto 3-4m. Similar Coffea arabica, más resistente.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "CAFÉ COMERCIAL, MEZCLAS, CAFÉ SOLUBLE",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según manejo: 500-2000 kg/ha/año"
+    },
+    "Passiflora_edulis": {
+      "common_names": [
+        "Fruta de la Pasión",
+        "Maracuyá"
+      ],
+      "scientific_name": "Passiflora edulis Sims",
+      "family": "Passifloraceae",
+      "origin": "Brasil",
+      "morphology": "Trepadora. Frutos redondos púrpura-amarillo. Semillas arilo jugoso.",
+      "uses": "FRUTO (jugos, pulpas), ORNAMENTAL, EXPORTACIÓN",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Anacardium_occidentale": {
+      "common_names": [
+        "Marañón",
+        "Cashew"
+      ],
+      "scientific_name": "Anacardium occidentale L.",
+      "family": "Anacardiaceae",
+      "origin": "Brasil",
+      "morphology": "Árbol 8-12m. Frutos campanuliforme rojo-amarillo. Semilla nuez.",
+      "uses": "FRUTO (jugos), NUEZ (exportación), ACEITE",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Ricinus_communis": {
+      "common_names": [
+        "Ricino",
+        "Higuerilla"
+      ],
+      "scientific_name": "Ricinus communis L.",
+      "family": "Euphorbiaceae",
+      "origin": "África",
+      "morphology": "Arbusto/árbol 1.5-3m. Semillas moteadas. Hojas palmeadas grandes.",
+      "uses": "ACEITE (lubricante, medicinal), INDUSTRIAL, BIODIESEL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Piper_nigrum": {
+      "common_names": [
+        "Pimienta Negra"
+      ],
+      "scientific_name": "Piper nigrum L.",
+      "family": "Piperaceae",
+      "origin": "India",
+      "morphology": "Trepadora. Frutos negros pequeños (granos pimienta).",
+      "uses": "ESPECIA valiosa, CONDIMENTO, EXPORTACIÓN",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Ocimum_basilicum": {
+      "common_names": [
+        "Albahaca"
+      ],
+      "scientific_name": "Ocimum basilicum L.",
+      "family": "Lamiaceae",
+      "origin": "India, Irán",
+      "morphology": "Hierba aromática 0.3-0.6m. Flores blancas-púrpuras.",
+      "uses": "CULINARIO, AROMÁTICO, MEDICINAL, COSMÉTICO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Origanum_vulgare": {
+      "common_names": [
+        "Orégano"
+      ],
+      "scientific_name": "Origanum vulgare L.",
+      "family": "Lamiaceae",
+      "origin": "Mediterráneo",
+      "morphology": "Hierba aromática 0.3-0.5m. Flores rosadas-púrpuras.",
+      "uses": "CONDIMENTO, MEDICINAL, AROMÁTICO, COSMÉTICO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Rosmarinus_officinalis": {
+      "common_names": [
+        "Romero"
+      ],
+      "scientific_name": "Rosmarinus officinalis L.",
+      "family": "Lamiaceae",
+      "origin": "Mediterráneo",
+      "morphology": "Arbusto perenne 0.6-2m. Flores azul-púrpura. Aromático intenso.",
+      "uses": "CONDIMENTO, MEDICINAL, COSMÉTICO, ANTISÉPTICO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Mentha_piperita": {
+      "common_names": [
+        "Menta Piperita"
+      ],
+      "scientific_name": "Mentha × piperita L.",
+      "family": "Lamiaceae",
+      "origin": "Europa",
+      "morphology": "Hierba 0.3-0.9m. Flores púrpura-rosadas. Aroma mentolado.",
+      "uses": "MEDICINAL (digestivo), COSMÉTICO, AROMÁTICO, BEBIDA",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Sambucus_canadensis": {
+      "common_names": [
+        "Saúco",
+        "Sauco Americano"
+      ],
+      "scientific_name": "Sambucus canadensis L.",
+      "family": "Adoxaceae",
+      "origin": "América del Norte",
+      "morphology": "Arbusto 3-4m. Flores blancas. Frutos negros pequeños.",
+      "uses": "MEDICINAL (inmunidad), BEBIDAS, PULPAS, JARABE",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Punica_granatum": {
+      "common_names": [
+        "Granada"
+      ],
+      "scientific_name": "Punica granatum L.",
+      "family": "Lythraceae",
+      "origin": "Mediterráneo, Persia",
+      "morphology": "Arbusto 2-3m. Flores rojas. Frutos redondos con semillas (arilo).",
+      "uses": "FRUTO, JUGOS, ANTIOXIDANTE ALTO, MEDICINAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Mespilus_germanica": {
+      "common_names": [
+        "Níspola"
+      ],
+      "scientific_name": "Mespilus germanica L.",
+      "family": "Rosaceae",
+      "origin": "Eurasia",
+      "morphology": "Árbol 5-8m. Flores blancas. Frutos marrones pequeños.",
+      "uses": "FRUTO (conservas, mermeladas), MEDICINAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Eriobotrya_japonica": {
+      "common_names": [
+        "Níspero Japonés",
+        "Loquat"
+      ],
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl.",
+      "family": "Rosaceae",
+      "origin": "China, Japón",
+      "morphology": "Árbol 5-8m. Flores blancas fragantes. Frutos amarillos pequeños.",
+      "uses": "FRUTO (fresco, conservas), MEDICINAL, ORNAMENTAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Opuntia_ficus_indica": {
+      "common_names": [
+        "Tuna",
+        "Higo Chumbo"
+      ],
+      "scientific_name": "Opuntia ficus-indica (L.) Mill.",
+      "family": "Cactaceae",
+      "origin": "México",
+      "morphology": "Suculenta 2-3m. Tallos aplanados espinosos. Frutos redondos.",
+      "uses": "FRUTO, VERDURA (nopales), FORRAJE, MEDICINAL, COLORANTE",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Agave_americana": {
+      "common_names": [
+        "Agave",
+        "Pita"
+      ],
+      "scientific_name": "Agave americana L.",
+      "family": "Asparagaceae",
+      "origin": "México",
+      "morphology": "Suculenta roseta 2-3m altura hojas. Flores amarillas.",
+      "uses": "FIBRA (textil), BEBIDAS (pulque, mezcal), ORNAMENTAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Ananas_comosus": {
+      "common_names": [
+        "Piña",
+        "Ananá"
+      ],
+      "scientific_name": "Ananas comosus (L.) Merr.",
+      "family": "Bromeliaceae",
+      "origin": "Brasil, Paraguay",
+      "morphology": "Hierba 1-1.5m. Roseta de hojas. Fruto piña grande.",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "uses": "FRUTO (fresco, conservas, zumos), FIBRA, ENZIMA bromelina",
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "5-20 t/ha/año"
+    },
+    "Artocarpus_altilis": {
+      "common_names": [
+        "Árbol del Pan"
+      ],
+      "scientific_name": "Artocarpus altilis (Parkinson) Fosberg",
+      "family": "Moraceae",
+      "origin": "Pacífico",
+      "morphology": "Árbol 20-26m. Frutos grandes redondos verdes.",
+      "uses": "FRUTO (almidón), ALIMENTACIÓN TROPICAL, SEGURIDAD ALIMENTARIA",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Litchi_chinensis": {
+      "common_names": [
+        "Lichi"
+      ],
+      "scientific_name": "Litchi chinensis Sonn.",
+      "family": "Sapindaceae",
+      "origin": "China",
+      "morphology": "Árbol 10-15m. Frutos rojos pequeños con semilla.",
+      "uses": "FRUTO EXÓTICO, MERCADO FRESCO, EXPORTACIÓN",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Mangifera_indica_alt": {
+      "common_names": [
+        "Mango Variedad"
+      ],
+      "scientific_name": "Mangifera indica L. var.",
+      "family": "Anacardiaceae",
+      "morphology": "Similar Mangifera indica con variaciones cultivar.",
+      "uses": "FRUTO, EXPORTACIÓN",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "origin": "Trópicos (Asia/América)",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "5-20 t/ha/año"
+    },
+    "Erythroxylum_coca": {
+      "common_names": [
+        "Coca"
+      ],
+      "scientific_name": "Erythroxylum coca Lam.",
+      "family": "Erythroxylaceae",
+      "origin": "Andes",
+      "morphology": "Arbusto 1.5-2.5m. Hojas pequeñas elípticas.",
+      "notes": "Uso tradicional/medicinal en comunidades andinas",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "uses": "Usos de ejemplo: alimento/consumo humano, uso medicinal tradicional, forraje, ornamental o industrial según la especie.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Cinnamomum_verum": {
+      "common_names": [
+        "Canela"
+      ],
+      "scientific_name": "Cinnamomum verum J. Presl",
+      "family": "Lauraceae",
+      "origin": "Sri Lanka",
+      "morphology": "Árbol 8-10m. Corteza aromática (canela comercial).",
+      "uses": "ESPECIA (corteza), CONDIMENTO, MEDICINAL, COSMÉTICO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Laurus_nobilis": {
+      "common_names": [
+        "Laurel"
+      ],
+      "scientific_name": "Laurus nobilis L.",
+      "family": "Lauraceae",
+      "origin": "Mediterráneo",
+      "morphology": "Arbusto/árbol 7-12m. Hojas aromáticas perennes.",
+      "uses": "CONDIMENTO, MEDICINAL, COSMÉTICO, ORNAMENTAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Hypericum_perforatum": {
+      "common_names": [
+        "Hipérico",
+        "Hierba de San Juan"
+      ],
+      "scientific_name": "Hypericum perforatum L.",
+      "family": "Hypericaceae",
+      "origin": "Mediterráneo, Eurasia",
+      "morphology": "Hierba perenne 0.4-1m. Flores amarillas pequenas.",
+      "medicinal_properties": "TRADICIONAL: depresión leve, ansiedad, antinflamatorio",
+      "uses": "MEDICINAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Artemisia_absinthium": {
+      "common_names": [
+        "Ajenjo"
+      ],
+      "scientific_name": "Artemisia absinthium L.",
+      "family": "Asteraceae",
+      "origin": "Europa",
+      "morphology": "Hierba perenne 0.6-1m. Hojas grisáceas aromáticas.",
+      "uses": "LICOR (absinta), MEDICINAL TRADICIONAL, INSECTICIDA",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Ginkgo_biloba": {
+      "common_names": [
+        "Ginkgo"
+      ],
+      "scientific_name": "Ginkgo biloba L.",
+      "family": "Ginkgoaceae",
+      "origin": "China",
+      "morphology": "Árbol 20-35m. Hojas abanico únicas. Frutos ovalados.",
+      "medicinal_properties": "Circulación, memoria, antioxidante",
+      "uses": "MEDICINAL, ORNAMENTAL, SUPLEMENTO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Salvia_officinalis": {
+      "common_names": [
+        "Salvia"
+      ],
+      "scientific_name": "Salvia officinalis L.",
+      "family": "Lamiaceae",
+      "origin": "Mediterráneo",
+      "morphology": "Arbusto 0.6-0.8m. Hojas grises aromáticas.",
+      "uses": "MEDICINAL (garganta, digestión), CONDIMENTO, COSMÉTICO",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Plantago_major": {
+      "common_names": [
+        "Llantén"
+      ],
+      "scientific_name": "Plantago major L.",
+      "family": "Plantaginaceae",
+      "origin": "Europa, Temperate",
+      "morphology": "Hierba roseta basal. Hojas ovaladas parallelinerves.",
+      "uses": "MEDICINAL TRADICIONAL (cicatrizante, bronquial)",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    },
+    "Zea_mays": {
+      "common_names": [
+        "Maíz"
+      ],
+      "scientific_name": "Zea mays L.",
+      "family": "Poaceae",
+      "origin": "Mesoamérica",
+      "morphology": "Gramínea 1.5-3m. Inflorescencia mazorca.",
+      "uses": "GRANO (alimento), FORRAJE, INDUSTRIAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "3-10 t/ha/año"
+    },
+    "Oryza_sativa": {
+      "common_names": [
+        "Arroz"
+      ],
+      "scientific_name": "Oryza sativa L.",
+      "family": "Poaceae",
+      "origin": "Asia",
+      "morphology": "Gramínea 0.6-1.5m. Panícula. Semilla (grano arroz).",
+      "uses": "GRANO ALIMENTO BÁSICO, GLOBAL",
+      "cultivation": {
+        "temperature_range": "20-28 °C",
+        "altitude_range": "0-1500 msnm",
+        "soil": "Franco a franco-arenoso, buen drenaje, pH 5.5-7.5",
+        "light": "Pleno sol a semisombra según especie",
+        "water": "Riego moderado; evitar encharcamientos"
+      },
+      "pests_diseases": "Plagas y enfermedades comunes de ejemplo: hongos foliares, pulgones, ácaros, y problemas bacterianos; manejo integrado recomendado.",
+      "production_cycle": "Ciclo productivo de ejemplo: tiempo a cosecha y rendimiento variables según manejo y variedad.",
+      "medicinal_properties": "Propiedades tradicionales: antiinflamatorio, digestivo o antioxidante según especie.",
+      "economic_data": "Valor económico local; uso alimentario o industrial según especie.",
+      "yield": "Variable según especie y manejo"
+    }
+  },
+  "data_quality": "synthetic_unverified_examples_included",
+  "general_identity": [
+    {
+      "patterns": [
+        "¿Quién eres?",
+        "¿Qué eres?",
+        "¿Eres una IA?",
+        "¿Eres una inteligencia artificial?",
+        "¿Eres humano?",
+        "¿Quién te creó?",
+        "¿Para qué fuiste creado?",
+        "¿Cuál es tu función?"
+      ],
+      "response": "Soy un chatbot desarrollado por Julián Medina y Brayan León para la Unidad Agroambiental La Esperanza de la Universidad de Cundinamarca. Fui diseñado para identificar especies vegetales mediante redes neuronales YOLO y responder preguntas técnicas o generales sobre botánica, agronomía y ecología."
+    },
+    {
+      "patterns": [
+        "¿Qué sabes de",
+        "Dime todo sobre",
+        "Dame toda la información de",
+        "Cuéntame todo sobre",
+        "Explícame todo sobre"
+      ],
+      "response": "[INFO_PLANTA]"
+    },
+    {
+      "patterns": [
+        "¿Qué es esto?",
+        "¿Qué es esta hoja?",
+        "¿Qué es este fruto?",
+        "¿Qué planta podría ser esta?"
+      ],
+      "response": "Según la imagen analizada, parece corresponder a la especie identificada más recientemente por el sistema. Si deseas un análisis detallado, escribe 'analiza'."
+    }
+  ]
+}
